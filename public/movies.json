@@ -1,0 +1,30 @@
+{
+  "movies": [
+    {
+      "title": "Reservoir Dogs",
+      "year": "1992",
+      "director": "Quentin Tarantino",
+      "cast": {
+        "name": [
+          "Harvey Keitel",
+          "Tim Roth",
+          "Michael Madsen",
+          "Steve Buscemi"
+        ]
+      }
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": "1994",
+      "director": "Quentin Tarantino",
+      "cast": {
+        "name": [
+          "John Travolta",
+          "Samuel L. Jackson",
+          "Bruce Willis",
+          "Uma Thurman"
+        ]
+      }
+    }
+  ]
+}
